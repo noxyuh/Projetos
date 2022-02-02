@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  div {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+  }
+  
+  h2, h3, p, ul, li {
+    padding-top: 10px;
+  }
+  
+  div.perfil {
+    background-color: rgba(26, 12, 36, 0.863);
+    text-align: center;
+  }
+  
+  div.resumo {
+    background-color: rgba(107, 28, 107, 0.815);
+    text-align: center;
+  }
+  
+  a.button {
+    color: rgb(219, 211, 211);
+    text-align: center;
+    border-radius: 3px;
+    text-decoration: none;
+  }
+  
+  img {
+    border-radius: 25%;
+    width: 200px;
+    height: 200px;
+    margin-top: 15px;
+  }
+  
+  h2 {
+    color: rgb(112, 43, 192);
+  }
+  
+  hr {
+    background-color: rgb(103, 44, 138);
+    height: 3px;
+  }
+  
+  h3 {
+    color:rgb(218, 34, 178);
+  }
+  
+  #github {
+    background-color: rgb(85, 81, 81);
+  }
+  #github:hover{
+    background-color: rgba(26, 36, 44, 0.5);
+  }
+  
+  #linkedin {
+    background-color: rgb(19, 36, 129);
+  }
+  #linkedin:hover{
+    background-color: rgba(5, 42, 71, 0.671);
+  }
+  #youtube {
+    background-color: #FF0000;
+  }
+  #youtube:hover{
+    background-color: rgba(221, 15, 15, 0.795);
+  }
